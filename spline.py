@@ -79,7 +79,4 @@ if __name__ == '__main__':
   plt.ylabel('e^x')
   plt.show()
   
-# cubic spline interpolation
-# author : worasait suwannik
-# date   : apr 2015
 
