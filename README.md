@@ -16,7 +16,3 @@ Poniżej przykład krzywej, który powinien zostać opisany jak najmniejszą lic
 przy jak najmniejszym błędzie odwzorowania. 
 
  
-
-Zestaw punktów dostępny pod linkiem 
-https://tomtominternational-my.sharepoint.com/:t:/g/personal/jakub_zakrzewski_tomtom_com/ET8an9MmTHhAteXvsIBzU3ABb2ta2fWXtGtJWE-_muT1lw?e=jxGSF4
-
