@@ -11,8 +11,8 @@ y = points[:,1]
 n = len(x)
 
 spl = InterpolatedUnivariateSpline(x, y)
-plt.plot(x, y, 'ro', ms=5)
+plt.plot(x, y, 'g-', ms=5, label='original')
 xs = np.linspace(x[0], x[-1], 50)
-plt.plot(xs, spl(xs), 'g', lw=3, alpha=0.7)
+plt.plot(xs, spl(xs), 'r', lw=3, alpha=0.7, label='interpolated')
+plt.legend(loc='best')
 plt.show()
-
